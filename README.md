@@ -1,1 +1,60 @@
-# Litt-rature-Belles-Lettres-
+# 📚 Littérature & Belles-Lettres
+
+*Lire, comprendre, réfléchir et partager.*
+
+## 🌍 À propos
+
+Ce repository est ma bibliothèque personnelle de découvertes littéraires.
+
+Son objectif est de développer progressivement ma culture littéraire, d'enrichir ma maîtrise du français et de l'anglais et de découvrir les grandes œuvres, les écrivains et les idées qui ont traversé les siècles et les civilisations.
+
+Je souhaite avant tout **lire par plaisir, développer ma propre pensée et apprendre à partager ce que je découvre.**
+
+## 🗂️ Organisation
+
+Le repository est organisé en dossiers thématiques :
+
+- 📖 **Romans & Récits** : romans, nouvelles et récits.
+- 🪶 **Poésie** : poètes, recueils et poèmes.
+- 🧠 **Philosophie & Essais** : réflexions, idées et grands penseurs.
+- 🎭 **Théâtre** : pièces et dramaturgie.
+- 🏛️ **Mythologie & Épopées** : mythes, légendes et textes fondateurs.
+- ✍️ **Langues & Écriture** : stylistique, rhétorique, vocabulaire et éloquence.
+
+D'autres catégories pourront être ajoutées au fil des découvertes.
+
+**Chaque œuvre étudiée possède son propre fichier Markdown**, contenant mes impressions, ma compréhension et ce que j'en retiens.
+
+## 🌱 Ma méthode
+
+**1. 🔎 Découvrir**
+
+Chaque jour, demander une recommandation d'œuvre à découvrir, en variant les genres, les époques, les cultures et les auteurs.
+
+**2. 📖 Lire**
+
+Découvrir l'œuvre à mon rythme, sans obligation d'analyse ni de prise de notes pendant la lecture.
+
+**3. 💭 Réfléchir**
+
+Former mon propre avis, identifier ce qui m'a marqué et réfléchir aux idées que je souhaite retenir.
+
+**4. ✍️ Écrire**
+
+Résumer librement ma lecture avec mes propres mots, parfois à l'oral, puis conserver cette réflexion dans un fichier Markdown.
+
+**5. 🌍 Continuer**
+
+Passer à une nouvelle découverte et enrichir progressivement ma bibliothèque.
+
+## 🤝 Le rôle de ChatGPT
+
+ChatGPT m'accompagne dans mes découvertes en me recommandant des œuvres, en répondant à mes questions et en m'aidant à approfondir ma compréhension.
+
+Il peut également **transcrire et structurer mes réflexions orales**, puis les enregistrer dans le repository GitHub à ma demande.
+
+Les interprétations, les opinions et les résumés restent les miens. L'assistant m'aide à les conserver et à les approfondir, sans se substituer à ma réflexion personnelle.
+
+---
+
+**📚 Lire pour le plaisir. Comprendre pour grandir. Échanger pour partager.**
