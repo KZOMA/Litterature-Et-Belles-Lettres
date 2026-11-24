@@ -31,6 +31,16 @@ D'autres catégories pourront être ajoutées au fil des découvertes.
 
 Chaque jour, demander une recommandation d'œuvre à découvrir, en variant les genres, les époques, les cultures et les auteurs.
 
+Avant de commencer une lecture, chaque fiche d'œuvre comporte, après ses métadonnées, une section **🧭 Avant la lecture : comprendre l'œuvre**, rédigée avec des références fiables et adaptée au genre de l'œuvre. Elle présente :
+
+- Le fond : sujet, thèmes et enjeux.
+- L'intention de l'auteur, lorsqu'elle est documentée, distinguée des interprétations possibles.
+- Les clés de lecture : forme, procédés littéraires, conseils facultatifs pour aborder le texte.
+- L'apport à la société : réception, portée historique, sociale ou intellectuelle, sans exagérer son influence.
+- L'apport à l'écriture et à la littérature : originalité, innovations et héritage.
+
+Cette introduction ne dévoile pas les moments décisifs de l'œuvre et ne dicte pas mon interprétation. Elle peut renvoyer aux fiches d'études littéraires (auteurs, courants, contextes, genres et procédés). Les sections de résumé, d'impressions et de réflexion personnelle restent à compléter après la lecture.
+
 **2. 📖 Lire**
 
 Découvrir l'œuvre à mon rythme, sans obligation d'analyse ni de prise de notes pendant la lecture.
