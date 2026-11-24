@@ -61,6 +61,40 @@ Il serait réducteur de considérer toute la littérature romantique comme libé
 - [Assemblée nationale](https://www.assemblee-nationale.fr/) : histoire parlementaire et débats sur l'abolition.
 - [INSEE](https://www.insee.fr/) : séries démographiques historiques.
 
+## 8. 📖 Glossaire
+
+| Mot ou expression | Définition |
+| --- | --- |
+| **Restauration bourbonienne** | Retour des Bourbons sur le trône de France après la chute de Napoléon Ier : Louis XVIII puis Charles X (1814–1830, avec l'interruption des Cent-Jours en 1815). |
+| **Dynastie** | Famille dont plusieurs membres se succèdent au pouvoir. |
+| **Monarchie constitutionnelle** | Régime dans lequel les pouvoirs du monarque sont encadrés par une constitution ou une charte. Le roi peut néanmoins conserver des pouvoirs importants. |
+| **Suffrage censitaire** | Droit de vote réservé aux personnes répondant à des conditions fiscales. Sous la Restauration, un électeur doit notamment être un homme d'au moins 30 ans et payer au moins 300 francs d'impôts directs. |
+| **Conservateur** | Personne favorable au maintien des institutions et traditions existantes ou à leur évolution prudente. En 1829, les conservateurs royalistes privilégient notamment l'autorité monarchique et, pour beaucoup, la place de l'Église. |
+| **Libéral** | Personne attachée aux libertés individuelles, aux garanties juridiques et à la limitation de l'arbitraire politique. En 1829, les libéraux défendent notamment la liberté de la presse et le rôle des chambres ; beaucoup acceptent une monarchie constitutionnelle et un vote censitaire. |
+| **Souvenir impérial** | Mémoire du Premier Empire (1804–1814/1815), de Napoléon Ier, de ses guerres et de ses réformes ; elle peut susciter aussi bien la nostalgie que le rejet. |
+| **Insurrection** | Soulèvement collectif contre une autorité ou un pouvoir établi. |
+| **Rétribution** | En droit pénal, justification de la peine comme réponse méritée à une faute commise, en principe proportionnée à sa gravité. |
+| **Dissuasion** | Action de décourager un comportement, par exemple en faisant craindre une sanction. |
+| **Cesare Beccaria (1738–1794)** | Penseur et juriste italien des Lumières, auteur de *Des délits et des peines* (1764). Il critique notamment la torture et la peine capitale, défend la proportionnalité des sanctions et privilégie la prévention des crimes. |
+| **Abolition** | Suppression officielle d'une loi, d'une institution ou d'une pratique. |
+| **Abolitionniste** | Personne qui souhaite ou défend l'abolition d'une pratique, comme la peine de mort ou l'esclavage. Dans cette fiche, il s'agit de la peine de mort. |
+| **Libéralisme** | Famille de doctrines politiques, philosophiques et économiques privilégiant les libertés individuelles. Le libéralisme politique défend les garanties contre l'arbitraire du pouvoir ; le libéralisme économique privilégie la liberté des échanges et de l'entreprise. |
+
+### Conservateurs et libéraux en 1829 : la nuance essentielle
+
+Les conservateurs royalistes et les libéraux s'opposent surtout sur l'équilibre entre l'autorité royale et les libertés garanties par la Charte. Les ultras, royalistes particulièrement intransigeants, souhaitent renforcer les prérogatives monarchiques et les traditions. Les libéraux réclament notamment une presse plus libre et un contrôle parlementaire plus important. Les deux camps sont divers : un libéral de 1829 n'est pas nécessairement républicain, favorable au suffrage universel ou partisan de toutes les réformes sociales.
+
+### Libéralisme et romantisme
+
+Le libéralisme est avant tout un courant de pensée politique, philosophique et économique, et non un mouvement littéraire autonome comparable au romantisme. Hugo parle néanmoins de « libéralisme en littérature » dans la préface d'*Hernani* (1830) pour désigner la liberté créatrice face aux contraintes esthétiques. Il existe des romantiques conservateurs et des romantiques libéraux.
+
+**Références du glossaire :**
+
+- [Larousse : seconde Restauration](https://www.larousse.fr/encyclopedie/divers/seconde_Restauration/138702)
+- [Dictionnaire de l'Académie française : libéralisme](https://www.dictionnaire-academie.fr/article/A9L0718)
+- [Assemblée nationale : la lutte pour l'abolition de la peine de mort](https://www.assemblee-nationale.fr/histoire/peinedemort/lutte.asp)
+- [Victor Hugo : préface d'Hernani](https://fr.wikisource.org/wiki/Hernani_%28Hetzel%2C_1889%29/Pr%C3%A9face)
+
 ## 📝 Mes observations personnelles
 
 <!-- À compléter au fil des lectures. -->
