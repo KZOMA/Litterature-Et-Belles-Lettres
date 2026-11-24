@@ -109,6 +109,10 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 <!-- Facultatif. -->
 
+| Mot | Nature et registre | Définition | Exemple |
+| --- | --- | --- | --- |
+| **Auguste** | Adjectif, registre soutenu | Qui inspire le respect par sa grandeur, sa dignité ou sa majesté. Du latin *augustus* (« vénérable, consacré »). Peut aussi être employé ironiquement. | Un silence auguste régnait dans cette salle. (Exemple illustratif, non tiré du roman.) |
+
 ## 🌱 Ce que je retiens de cette œuvre
 
 <!-- À compléter après la lecture. -->
