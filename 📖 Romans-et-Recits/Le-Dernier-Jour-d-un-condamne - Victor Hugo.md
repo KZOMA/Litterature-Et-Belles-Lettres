@@ -105,16 +105,30 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 <!-- Facultatif : indiquer le chapitre ou la page de l’édition lue. -->
 
+### Préface de 1832 — Qui parle ?
+
+**Question de lecture :** qui s'exprime dans ce passage où il est question de « l'auteur », de « il » et de « nous » ?
+
+**Éclairage :** c'est Victor Hugo lui-même, dans la longue préface de 1832, trois ans après la publication anonyme de 1829. Il cite d'abord la courte préface originale, qui laissait planer le doute sur l'origine du récit, puis explicite son intention abolitionniste. L'emploi de la troisième personne et du « nous » relève de sa posture d'auteur dans le discours préfaciel. Il faut distinguer cette voix réelle de celle du condamné fictif, narrateur du roman.
+
+> « Heureux si, à force de creuser dans le juge, il a réussi quelquefois à y retrouver un homme ! »
+
+**Explication :** Hugo espère éveiller la compassion et le sens de l'humanité chez ceux qui rendent la justice. Son plaidoyer ne concerne pas un accusé particulier, mais le principe même de la peine capitale, quelle que soit la culpabilité du condamné.
+
+**Procédé littéraire : la métaphore filée de l'arbre.** L'« arbre patibulaire » désigne le gibet et, par extension, l'institution de la peine de mort. Hugo représente les efforts abolitionnistes comme des coups de cognée destinés à abattre cet arbre. Il compare aussi les révolutions à un travail d'élagage de la société, la peine de mort étant une des « serpes » dont elles peinent à se dessaisir. Les deux images sont liées par le vocabulaire arboricole.
+
+*Ces éléments constituent des éclairages de lecture, et non des impressions personnelles attribuées au lecteur.*
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
 
 | Mot | Nature et registre | Définition | Exemple |
 | --- | --- | --- | --- |
-| **Auguste** | Adjectif, registre soutenu | Qui inspire le respect par sa grandeur, sa dignité ou sa majesté. Du latin *augustus* (« vénérable, consacré »). Peut aussi être employé ironiquement. | Un silence auguste régnait dans cette salle. (Exemple illustratif, non tiré du roman.) |
-| **Patibulaire** | Adjectif, registre soutenu | Qui présente un aspect inquiétant, sinistre ou menaçant, inspirant la méfiance. Du latin *patibulum* (« gibet »). Synonymes : louche, inquiétant, menaçant. Antonymes : rassurant, avenant. | Cet homme avait une mine patibulaire. (Exemple illustratif, non tiré du roman.) |
-| **Émondé** | Adjectif et participe passé d’*émonder* | Au sens propre, dont on a coupé les branches mortes ou superflues. Au sens figuré, débarrassé de ses éléments inutiles. Du latin *emundare* (« nettoyer, purifier »). Synonymes : élagué, taillé, épuré. | Les arbres émondés bordaient le chemin. Un texte émondé de ses répétitions. (Exemples illustratifs, non tirés du roman.) |
-| **Serpe** | Nom féminin | Outil à lame tranchante et recourbée servant à couper les petites branches et les broussailles. Au figuré, « taillé à la serpe » signifie grossièrement taillé, aux traits anguleux et marqués. | Le jardinier émondait les arbres à l’aide d’une serpe. (Exemple illustratif, non tiré du roman.) |
+| **Auguste** | Adjectif, registre soutenu | Qui inspire le respect par sa grandeur, sa dignité ou sa majesté. Du latin *augustus* (« vénérable, consacré »). Peut aussi être employé ironiquement. Dans la préface de 1832, « un but plus élevé, plus saint, plus auguste » désigne un objectif digne du plus grand respect. | Un silence auguste régnait dans cette salle. (Exemple illustratif, non tiré du roman.) |
+| **Patibulaire** | Adjectif, registre soutenu | Qui présente un aspect inquiétant, sinistre ou menaçant, inspirant la méfiance. Du latin *patibulum* (« gibet »). Synonymes : louche, inquiétant, menaçant. Antonymes : rassurant, avenant. Dans « l’arbre patibulaire », le sens ancien est celui de ce qui se rapporte au gibet, et non simplement d’un aspect menaçant. | Cet homme avait une mine patibulaire. (Exemple illustratif, non tiré du roman.) |
+| **Émondé** | Adjectif et participe passé d’*émonder* | Au sens propre, dont on a coupé les branches mortes ou superflues. Au sens figuré, débarrassé de ses éléments inutiles. Du latin *emundare* (« nettoyer, purifier »). Synonymes : élagué, taillé, épuré. Dans le passage de la préface, Hugo emploie l’infinitif « émonder » : les révolutions cherchent, métaphoriquement, à retrancher certaines parties de la société. | Les arbres émondés bordaient le chemin. Un texte émondé de ses répétitions. (Exemples illustratifs, non tirés du roman.) |
+| **Serpe** | Nom féminin | Outil à lame tranchante et recourbée servant à couper les petites branches et les broussailles. Au figuré, « taillé à la serpe » signifie grossièrement taillé, aux traits anguleux et marqués. Dans la préface, la serpe représente métaphoriquement la peine de mort, instrument dont les révolutions peinent à se séparer. | Le jardinier émondait les arbres à l’aide d’une serpe. (Exemple illustratif, non tiré du roman.) |
 
 ## 🌱 Ce que je retiens de cette œuvre
 
