@@ -114,6 +114,7 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 | **Auguste** | Adjectif, registre soutenu | Qui inspire le respect par sa grandeur, sa dignité ou sa majesté. Du latin *augustus* (« vénérable, consacré »). Peut aussi être employé ironiquement. | Un silence auguste régnait dans cette salle. (Exemple illustratif, non tiré du roman.) |
 | **Patibulaire** | Adjectif, registre soutenu | Qui présente un aspect inquiétant, sinistre ou menaçant, inspirant la méfiance. Du latin *patibulum* (« gibet »). Synonymes : louche, inquiétant, menaçant. Antonymes : rassurant, avenant. | Cet homme avait une mine patibulaire. (Exemple illustratif, non tiré du roman.) |
 | **Émondé** | Adjectif et participe passé d’*émonder* | Au sens propre, dont on a coupé les branches mortes ou superflues. Au sens figuré, débarrassé de ses éléments inutiles. Du latin *emundare* (« nettoyer, purifier »). Synonymes : élagué, taillé, épuré. | Les arbres émondés bordaient le chemin. Un texte émondé de ses répétitions. (Exemples illustratifs, non tirés du roman.) |
+| **Serpe** | Nom féminin | Outil à lame tranchante et recourbée servant à couper les petites branches et les broussailles. Au figuré, « taillé à la serpe » signifie grossièrement taillé, aux traits anguleux et marqués. | Le jardinier émondait les arbres à l’aide d’une serpe. (Exemple illustratif, non tiré du roman.) |
 
 ## 🌱 Ce que je retiens de cette œuvre
 
