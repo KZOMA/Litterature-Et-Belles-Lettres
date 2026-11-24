@@ -112,6 +112,7 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 | Mot | Nature et registre | Définition | Exemple |
 | --- | --- | --- | --- |
 | **Auguste** | Adjectif, registre soutenu | Qui inspire le respect par sa grandeur, sa dignité ou sa majesté. Du latin *augustus* (« vénérable, consacré »). Peut aussi être employé ironiquement. | Un silence auguste régnait dans cette salle. (Exemple illustratif, non tiré du roman.) |
+| **Patibulaire** | Adjectif, registre soutenu | Qui présente un aspect inquiétant, sinistre ou menaçant, inspirant la méfiance. Du latin *patibulum* (« gibet »). Synonymes : louche, inquiétant, menaçant. Antonymes : rassurant, avenant. | Cet homme avait une mine patibulaire. (Exemple illustratif, non tiré du roman.) |
 
 ## 🌱 Ce que je retiens de cette œuvre
 
