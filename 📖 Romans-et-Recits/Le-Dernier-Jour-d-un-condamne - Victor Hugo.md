@@ -135,6 +135,12 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 [Source : préface de 1832, texte intégral (Projet Gutenberg)](https://www.gutenberg.org/cache/epub/6838/pg6838.html).
 
+### Préface de 1832 : Ucalégon brûle
+
+**Éclairage de lecture :** l'allusion à l'Énéide (chant II, vers 311) rappelle l'incendie de la maison voisine d'Ucalégon lors de la chute de Troie. Hugo transpose cette image à la situation des parlementaires : selon lui, ils souhaitent écarter la peine de mort parce que le danger touche désormais des personnes de leur propre milieu. La formule « biffons le code » met en scène leur empressement à modifier la loi.
+
+**Sources :** [passage de Hugo (Wikisource)](https://fr.wikisource.org/wiki/Page:Hugo_-_%C5%92uvres_compl%C3%A8tes,_Impr._nat.,_Roman,_tome_I.djvu/608), [Virgile, Énéide II (UCLouvain)](https://bcs.fltr.ucl.ac.be/Virg/V02-268-437.html), [CNRTL : biffer](https://www.cnrtl.fr/definition/biffer).
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
@@ -163,6 +169,8 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 | **Grève (place de)** | Nom propre, lieu historique | Ancien nom de l’actuelle place de l’Hôtel de Ville à Paris, où avaient notamment lieu des exécutions publiques. Dans ce contexte, « envoyer à la Grève » signifie conduire à l’exécution. Le nom grève désigne aussi, au sens premier, un terrain plat de sable ou de gravier au bord de l’eau. | « envoyer à la Grève » (préface de 1832). |
 | **Acajou** | Nom masculin | Bois tropical précieux, généralement brun rougeâtre, apprécié en ébénisterie. Dans la préface, l’idée d’une guillotine en acajou souligne ironiquement les privilèges sociaux dont bénéficieraient les condamnés de haut rang. | Une commode en acajou. (Exemple illustratif.) |
 | **Besogne (se mettre en besogne)** | Nom féminin ; locution verbale | Travail ou tâche à accomplir, parfois pénible ou fastidieuse. « Se mettre en besogne » signifie se mettre au travail, entreprendre une tâche. Ici, les parlementaires commencent leurs travaux et cherchent une solution ; il ne s’agit pas de faire du bruit. Synonymes : tâche, ouvrage, travail, labeur. | « La Chambre se met en besogne » (passage communiqué par le lecteur, préface de 1832). |
+| **Ucalégon** | Nom propre, allusion littéraire | Personnage troyen dont la maison brûle lors de la prise de Troie, dans l’Énéide de Virgile (chant II, vers 311). « Ucalégon brûle » évoque un danger qui atteint un proche et menace de nous atteindre à notre tour. Hugo dénonce ainsi l’intérêt personnel qu’il prête aux parlementaires. | « Ucalégon brûle. » (préface de 1832). |
+| **Biffer (biffons)** | Verbe transitif ; impératif, 1re personne du pluriel | Rayer, barrer ou supprimer un élément écrit. Ici, Hugo évoque ironiquement la suppression des dispositions du Code pénal relatives à la peine de mort. | « Vite, supprimons le bourreau, biffons le code. » (préface de 1832). |
 
 **Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
 
