@@ -119,6 +119,10 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 *Ces éléments constituent des éclairages de lecture, et non des impressions personnelles attribuées au lecteur.*
 
+### Préface de 1832 : la satire des débats parlementaires d'octobre 1830
+
+**Éclairage de lecture :** Hugo compare les orateurs de la Chambre à des pleureuses et à un orchestre, en accumulant les termes du deuil, de la musique et des émotions. La voix de basse et le fausset sont des registres vocaux contrastés. L'adjectif « paterne » évoque ici une compassion protectrice que l'auteur présente ironiquement comme affectée. La comparaison avec le dernier acte d'une pièce de Nivelle de La Chaussée renforce le caractère théâtral de la scène. Hugo reproche aux parlementaires de s'émouvoir de la peine capitale lorsqu'elle menace des personnes de leur propre milieu. C'est son jugement dans la préface, et non une impression personnelle du lecteur.
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
@@ -129,6 +133,19 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 | **Patibulaire** | Adjectif, registre soutenu | Qui présente un aspect inquiétant, sinistre ou menaçant, inspirant la méfiance. Du latin *patibulum* (« gibet »). Synonymes : louche, inquiétant, menaçant. Antonymes : rassurant, avenant. Dans « l’arbre patibulaire », le sens ancien est celui de ce qui se rapporte au gibet, et non simplement d’un aspect menaçant. | Cet homme avait une mine patibulaire. (Exemple illustratif, non tiré du roman.) |
 | **Émondé** | Adjectif et participe passé d’*émonder* | Au sens propre, dont on a coupé les branches mortes ou superflues. Au sens figuré, débarrassé de ses éléments inutiles. Du latin *emundare* (« nettoyer, purifier »). Synonymes : élagué, taillé, épuré. Dans le passage de la préface, Hugo emploie l’infinitif « émonder » : les révolutions cherchent, métaphoriquement, à retrancher certaines parties de la société. | Les arbres émondés bordaient le chemin. Un texte émondé de ses répétitions. (Exemples illustratifs, non tirés du roman.) |
 | **Serpe** | Nom féminin | Outil à lame tranchante et recourbée servant à couper les petites branches et les broussailles. Au figuré, « taillé à la serpe » signifie grossièrement taillé, aux traits anguleux et marqués. Dans la préface, la serpe représente métaphoriquement la peine de mort, instrument dont les révolutions peinent à se séparer. | Le jardinier émondait les arbres à l’aide d’une serpe. (Exemple illustratif, non tiré du roman.) |
+| **Législateur** | Nom masculin | Personne participant à l'élaboration des lois ; ici, les membres de la Chambre. | Les législateurs débattent d'une réforme pénale. (Exemple illustratif.) |
+| **Bramer** | Verbe | Pousser le cri du cerf ; au figuré, crier ou se lamenter bruyamment. Hugo animalise ironiquement les orateurs. | La Chambre se mit à pleurer et à bramer (préface de 1832). |
+| **Procureur** | Nom masculin | Magistrat du ministère public qui soutient notamment l'accusation et requiert l'application de la loi ; il ne prononce pas le jugement. | Le procureur présente ses réquisitions. (Exemple illustratif.) |
+| **Procureur général** | Locution nominale | Haut magistrat du ministère public, notamment auprès d'une cour d'appel. Sous la monarchie, il représente les intérêts du roi et du public dans son ressort. Hugo souligne le contraste entre son ancienne pratique accusatrice et sa nouvelle compassion affichée. | Un ancien procureur général prend la parole à la Chambre. (Exemple illustratif.) |
+| **Réquisitoire** | Nom masculin | Acte ou discours du ministère public présentant ses arguments et ses demandes à la justice ; au figuré, discours d'accusation ou critique sévère. | Un réquisitoire contre l'injustice. (Exemple illustratif.) |
+| **Harangueur** | Nom masculin | Personne qui prononce des discours publics, souvent solennels, enflammés ou longs ; parfois péjoratif. Ici, les orateurs sont comparés à des pleureuses. | Un harangueur prend la parole devant la foule. (Exemple illustratif.) |
+| **Désemplir** | Verbe | Se vider, perdre une partie de son contenu ou de ses occupants. Dans le texte, « désemplit » est au passé simple : les orateurs se succèdent sans interruption à la tribune. | La salle ne désemplit pas. (Exemple illustratif.) |
+| **Myriologie** | Nom féminin, très rare | Chant funèbre ou lamentation de deuil, notamment de tradition grecque. Hugo tourne les discours parlementaires en lamentations collectives. | Une myriologie accompagne le deuil. (Exemple illustratif.) |
+| **Psaume** | Nom masculin | Poème religieux destiné à la récitation ou au chant, notamment biblique. Les psaumes lugubres participent ici à l'imagerie funèbre et musicale. | Un psaume est chanté pendant la cérémonie. (Exemple illustratif.) |
+| **Fausset** | Nom masculin, musique | Registre vocal aigu, souvent au timbre léger ou grêle. Ce n'est pas un instrument ; le mot est fausset, et non fossé. Il s'oppose ici à la voix de basse. | Chanter en fausset. (Exemple illustratif.) |
+| **Paterne** | Adjectif, registre soutenu | Qui témoigne d'une bienveillance protectrice rappelant celle d'un père, parfois affectée ou condescendante. Hugo l'emploie ironiquement à propos de la séance parlementaire. | Un sourire paterne. (Exemple illustratif.) |
+
+**Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
 
 ## 🌱 Ce que je retiens de cette œuvre
 
