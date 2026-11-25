@@ -123,6 +123,18 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 **Éclairage de lecture :** Hugo compare les orateurs de la Chambre à des pleureuses et à un orchestre, en accumulant les termes du deuil, de la musique et des émotions. La voix de basse et le fausset sont des registres vocaux contrastés. L'adjectif « paterne » évoque ici une compassion protectrice que l'auteur présente ironiquement comme affectée. La comparaison avec le dernier acte d'une pièce de Nivelle de La Chaussée renforce le caractère théâtral de la scène. Hugo reproche aux parlementaires de s'émouvoir de la peine capitale lorsqu'elle menace des personnes de leur propre milieu. C'est son jugement dans la préface, et non une impression personnelle du lecteur.
 
+### Préface de 1832 : les cocardes tricolores et les ogives de Vincennes
+
+**Question de lecture :** que signifient « cocardes », « ogives » et « Vincennes » ?
+
+**Passage :** « gardés par trois cents cocardes tricolores sous les belles ogives de Vincennes ».
+
+**Éclairage :** Hugo évoque quatre anciens ministres de Charles X emprisonnés au château de Vincennes. Les cocardes tricolores désignent les gardes qui portent cet insigne ; les ogives évoquent l'architecture médiévale du château.
+
+**Procédé littéraire : la métonymie.** L'auteur désigne les hommes par un objet qui leur est associé, leur cocarde. Ce procédé permet de rendre leur présence plus visuelle tout en rappelant leur appartenance politique ou nationale. Exemple courant : « lire Hugo » pour lire ses œuvres.
+
+[Source : préface de 1832, texte intégral (Projet Gutenberg)](https://www.gutenberg.org/cache/epub/6838/pg6838.html).
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
@@ -145,6 +157,9 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 | **Fausset** | Nom masculin, musique | Registre vocal aigu, souvent au timbre léger ou grêle. Ce n'est pas un instrument ; le mot est fausset, et non fossé. Il s'oppose ici à la voix de basse. | Chanter en fausset. (Exemple illustratif.) |
 | **Paterne** | Adjectif, registre soutenu | Qui témoigne d'une bienveillance protectrice rappelant celle d'un père, parfois affectée ou condescendante. Hugo l'emploie ironiquement à propos de la séance parlementaire. | Un sourire paterne. (Exemple illustratif.) |
 | **Hardi (hardis)** | Adjectif ; masculin pluriel : hardis, féminin : hardie | Qui fait preuve d’audace, de courage ou d’assurance face au danger, à la difficulté ou aux conventions. Peut aussi évoquer une audace excessive ou insolente. Synonymes : audacieux, intrépide, téméraire. | Des hommes hardis osèrent défier le pouvoir. (Exemple illustratif, non tiré du roman.) |
+| **Cocarde** | Nom féminin | Insigne généralement circulaire, souvent en tissu, porté sur un chapeau ou un vêtement et marquant une appartenance politique, nationale ou militaire. La cocarde tricolore porte les couleurs bleu, blanc et rouge. Ici, les cocardes désignent par métonymie les hommes qui les portent. | « trois cents cocardes tricolores » (préface de 1832). |
+| **Ogive** | Nom féminin, architecture | Nervure en arc d'une voûte, caractéristique de l'architecture gothique ; dans l'usage courant, arc pointu ou brisé. Ici, évocation de l'architecture du château de Vincennes. | « sous les belles ogives de Vincennes » (préface de 1832). |
+| **Vincennes** | Nom propre, lieu historique | Ville à l'est de Paris, connue pour son château royal médiéval, qui servit également de prison d'État. Hugo fait ici référence au château où sont détenus quatre anciens ministres de Charles X. | « sous les belles ogives de Vincennes » (préface de 1832). |
 
 **Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
 
