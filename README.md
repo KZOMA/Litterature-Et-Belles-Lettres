@@ -21,6 +21,15 @@ Le repository est organisé en dossiers thématiques :
 - 🏛️ **Mythologie & Épopées** : mythes, légendes et textes fondateurs.
 - ✍️ **Langues & Écriture** : stylistique, rhétorique, vocabulaire et éloquence.
 
+Les **🔎 Études littéraires** complètent les fiches d'œuvres avec des dossiers transversaux :
+
+- 👤 [Auteurs](%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A4%20Auteurs): biographies, œuvres et pensée des écrivains.
+- 👥 [Personnalités historiques](%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques): vie, contexte, idées, engagements et présence dans les textes de personnes citées au fil des lectures.
+- 📍 [Lieux](%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%93%8D%20Lieux): localisation, histoire, fonction à l'époque évoquée, état actuel et rôle dans la littérature.
+- 🌊 Courants et mouvements ; 🏛️ Histoire et contextes ; ✍️ Genres et procédés.
+
+Les fiches de référence sont indépendantes des œuvres, reliées par des liens Markdown et appuyées sur des sources. Elles distinguent les faits documentés, les interprétations et les incertitudes. Une même fiche peut servir à plusieurs lectures.
+
 D'autres catégories pourront être ajoutées au fil des découvertes.
 
 **Chaque œuvre étudiée possède son propre fichier Markdown**, contenant mes impressions, ma compréhension et ce que j'en retiens.

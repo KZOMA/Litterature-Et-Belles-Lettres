@@ -94,6 +94,15 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 - [🏛️ La France en 1829](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%8F%9B%EF%B8%8F%20Histoire-et-Contextes/La-France-en-1829.md)
 - [👤 Victor Hugo](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A4%20Auteurs/Victor-Hugo.md)
 
+### 7. Personnalités et lieux rencontrés pendant la lecture
+
+Références historiques de la préface de 1832, notamment l'affaire Chalais (1626) :
+
+- [👤 Cardinal de Richelieu](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques/Cardinal-de-Richelieu.md)
+- [👤 Christophe Foucquet de Chalain](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques/Christophe-Foucquet-de-Chalain.md)
+- [👤 Henri de Talleyrand, comte de Chalais](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques/Henri-de-Talleyrand-Comte-de-Chalais.md)
+- [📍 Le Bouffay de Nantes](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%93%8D%20Lieux/Le-Bouffay-de-Nantes.md)
+
 **Sources de cette présentation :**
 
 - [BnF : notice de l'œuvre et historique de publication](https://data.bnf.fr/fr/ark%3A/12148/cb13175157n)
