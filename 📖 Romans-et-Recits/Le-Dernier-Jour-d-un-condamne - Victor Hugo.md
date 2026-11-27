@@ -195,6 +195,12 @@ Références historiques de la préface de 1832, notamment l'affaire Chalais (16
 
 **Éclairage de lecture (assistant) :** L’adjectif « infâme » exprime une condamnation morale ; « dérision » évoque ici une parodie honteuse de la justice. Hugo oppose la dignité du vocabulaire institutionnel à la cruauté de l’exécution qu’il dénonce. L’ironie, puis l’exclamation nominale et concise, relèvent du registre polémique. Reformulation illustrative : « Et c’est cela qu’on ose appeler la justice ? Quelle honteuse mascarade ! » Cette interprétation ne constitue pas une réflexion personnelle du lecteur.
 
+### Le sou vert-de-grisé dans le sang (préface)
+
+> Concevez-vous rien de plus hideux que ce sou, vert-de-grisé dans le sang ?
+
+**Éclairage de lecture (assistant) :** Hugo dénonce la commercialisation de récits d’exécutions vendus un sou. Le vert-de-gris est un dépôt de corrosion du cuivre. L’image associe le sou (profit), la corrosion (dégradation) et le sang (souffrance et mort) pour suggérer une souillure morale. Ce n’est pas une expression figée, mais une métaphore de la corruption morale liée à l’exploitation commerciale de la souffrance. Source : [préface de 1832](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face). Cette interprétation est un éclairage de l’assistant, non une réflexion personnelle du lecteur.
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
@@ -268,6 +274,7 @@ Références historiques de la préface de 1832, notamment l'affaire Chalais (16
 | **Registre polémique** | Locution nominale ; littérature | Registre visant à dénoncer ou combattre vigoureusement une idée, une pratique ou une position, notamment par l’ironie et l’indignation. | L’exclamation « Infâme dérision ! » participe au registre polémique. |
 | **Expédient (être aux expédients)** | Nom masculin ; locution | Moyen auquel on recourt pour se sortir d’une difficulté, souvent provisoire, improvisé ou peu satisfaisant. Être aux expédients : devoir recourir à des moyens de fortune. Du latin *expedire* (dégager, sortir d’une difficulté). Dans « la loi aux expédients », Hugo suggère que la loi se trouve réduite à des procédés de fortune, en contradiction avec sa dignité affichée. | Faute d’argent, il vivait d’expédients. (Exemple illustratif.) |
 | **Denrée** | Nom féminin | Produit destiné à la consommation ou au commerce, principalement alimentaire. Une denrée périssable se détériore rapidement. Au figuré, chose recherchée ou rare. De l’ancien français *denree*, quantité de marchandise valant un denier. | La guerre avait provoqué une augmentation du prix des denrées alimentaires. L’honnêteté est parfois une denrée rare. (Exemples illustratifs.) |
+| **Vert-de-gris (vert-de-grisé)** | Nom masculin ; adjectif | Dépôt verdâtre formé par la corrosion du cuivre ou de ses alliages. Vert-de-grisé : couvert de vert-de-gris. Chez Hugo, l’image du sou vert-de-grisé dans le sang évoque la souillure morale de l’argent gagné en exploitant la souffrance humaine. | Concevez-vous rien de plus hideux que ce sou, vert-de-grisé dans le sang ? |
 
 **Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
 
