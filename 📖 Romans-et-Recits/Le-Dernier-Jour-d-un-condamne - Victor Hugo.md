@@ -197,6 +197,7 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 | **Boucler** | Verbe transitif | Fermer ou attacher au moyen d’une boucle. | Boucler une sangle. |
 | **Échafaudage** | Nom masculin | Structure construite ; ici, celle de l’échafaud. | Sortir de dessous son échafaudage. |
 | **Restaurer** | Verbe transitif | Remettre en bon état. | Restaurer un objet. |
+| **Arbitraire** | Adjectif et nom masculin | Qui dépend du bon vouloir ou du caprice de quelqu’un plutôt que de règles objectives ou de motifs légitimes. Dans le passage, le choix du prisonnier est présenté comme arbitraire ; le prisonnier subit ce choix. | Le roi ordonna une arrestation arbitraire. (Exemple illustratif.) |
 
 **Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
 
