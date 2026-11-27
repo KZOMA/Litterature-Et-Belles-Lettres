@@ -102,6 +102,7 @@ Références historiques de la préface de 1832, notamment l'affaire Chalais (16
 - [👤 Christophe Foucquet de Chalain](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques/Christophe-Foucquet-de-Chalain.md)
 - [👤 Henri de Talleyrand, comte de Chalais](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques/Henri-de-Talleyrand-Comte-de-Chalais.md)
 - [📍 Le Bouffay de Nantes](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%93%8D%20Lieux/Le-Bouffay-de-Nantes.md)
+- [📍 Bicêtre](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%93%8D%20Lieux/Bicetre.md)
 
 **Sources de cette présentation :**
 
