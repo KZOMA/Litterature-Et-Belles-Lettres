@@ -105,6 +105,17 @@ Références historiques de la préface de 1832, notamment l'affaire Chalais (16
 - [📍 Bicêtre](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%93%8D%20Lieux/Bicetre.md)
 - [📍 La place de Grève](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%93%8D%20Lieux/Place-de-Greve.md)
 
+Personnalités citées dans le passage sur les envieux :
+
+- [Giuseppe Grippa](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques/Giuseppe-Grippa.md)
+- [Gaetano Filangieri](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques/Gaetano-Filangieri.md)
+- [Pietro Torrigiano](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques/Pietro-Torrigiano.md)
+- [Michel-Ange](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A5%20Personnalites-historiques/Michel-Ange.md)
+- [Georges de Scudéry](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A4%20Auteurs/Georges-de-Scudery.md)
+- [Pierre Corneille](../%F0%9F%94%8E%20Etudes-litteraires/%F0%9F%91%A4%20Auteurs/Pierre-Corneille.md)
+
+**Procédé stylistique étudié :** [Antonomase](../%E2%9C%8D%EF%B8%8F%20Langues-et-Ecriture/%F0%9F%AA%B6%20Stylistique-et-Rhetorique/Antonomase.md).
+
 **Sources de cette présentation :**
 
 - [BnF : notice de l'œuvre et historique de publication](https://data.bnf.fr/fr/ark%3A/12148/cb13175157n)
@@ -213,6 +224,8 @@ Références historiques de la préface de 1832, notamment l'affaire Chalais (16
 | Pietro Torrigiano (Torregiani chez Hugo) et Michel-Ange | Sculpteurs de la Renaissance italienne ; les biographies anciennes rapportent que Torrigiano brisa le nez de Michel-Ange lors d’une altercation, attribuée à la jalousie. |
 | Georges de Scudéry et Pierre Corneille | Scudéry publie en 1637 des Observations sur Le Cid, critiquant la pièce de Corneille ; l’Académie française intervient dans la querelle. |
 
+**Précision historique :** Grippa contestait la légitimité de la peine de mort, tandis que Filangieri en admettait le principe. Leur opposition portait notamment sur les structures féodales et la justice. Voir les fiches biographiques et Treccani : [Grippa](https://www.treccani.it/enciclopedia/giuseppe-grippa_(Dizionario-Biografico)/), [Filangieri](https://www.treccani.it/enciclopedia/gaetano-filangieri_(Dizionario-di-Economia-e-Finanza)/).
+
 Les noms propres sont employés au pluriel comme types humains (antonomase). Hugo présente ces opposants comme envieux, mais cette qualification est son jugement polémique et non une explication historique exhaustive de leurs motivations. Le passage dénonce la réduction d’une question de vie ou de mort à un exercice intellectuel ou à une querelle personnelle.
 
 **Sources :** [Préface de 1832](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Treccani — Filangieri et Grippa](https://www.treccani.it/enciclopedia/gaetano-filangieri_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Diritto%29/), [Treccani — Giuseppe Grippa](https://www.treccani.it/enciclopedia/giuseppe-grippa_%28Dizionario-Biografico%29/), [étude historique sur Michel-Ange et son entourage](https://www.persee.fr/doc/bec_0373-6237_1916_num_77_1_451136), [base AGON — querelle du Cid](https://obtic.huma-num.fr/agon/querelles/querelle-du-cid), [Académie française — Richelieu et l’Académie](https://www.academie-francaise.fr/celebration-du-350e-anniversaire-de-lacademie-francaise-richelieu-et-lacademie-francaise).
@@ -299,7 +312,7 @@ Les noms propres sont employés au pluriel comme types humains (antonomase). Hug
 | **Paradoxe** | Nom masculin | Opinion contraire à l’opinion commune ou proposition apparemment contradictoire. | Un paradoxe peut provoquer la réflexion. |
 | **Faire faute à quelqu’un** | Locution verbale ancienne | Manquer à quelqu’un, lui faire défaut. Ne pas faire faute signifie ne pas manquer, être présent ; ne pas confondre avec commettre une faute. | Les envieux ne font pas faute aux bons jurisconsultes. |
 | **Jurisconsulte** | Nom ; vocabulaire juridique | Spécialiste savant du droit, qui l’étudie, l’interprète ou donne des consultations juridiques ; pas nécessairement magistrat. | Filangieri est un jurisconsulte. |
-| **Antonomase** | Nom féminin ; rhétorique | Figure consistant notamment à employer un nom propre pour désigner un type de personne ou, inversement, un nom commun pour désigner une personne. | Les Scudéry aux Corneille. |
+| **[Antonomase](../%E2%9C%8D%EF%B8%8F%20Langues-et-Ecriture/%F0%9F%AA%B6%20Stylistique-et-Rhetorique/Antonomase.md)** | Nom féminin ; rhétorique | Figure consistant notamment à employer un nom propre pour désigner un type de personne ou, inversement, un nom commun pour désigner une personne. | Les Scudéry aux Corneille. |
 
 **Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
 

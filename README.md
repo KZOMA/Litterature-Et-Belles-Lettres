@@ -20,6 +20,7 @@ Le repository est organisé en dossiers thématiques :
 - 🎭 **Théâtre** : pièces et dramaturgie.
 - 🏛️ **Mythologie & Épopées** : mythes, légendes et textes fondateurs.
 - ✍️ **Langues & Écriture** : stylistique, rhétorique, vocabulaire et éloquence.
+  - 🪶 [Stylistique et Rhétorique](%E2%9C%8D%EF%B8%8F%20Langues-et-Ecriture/%F0%9F%AA%B6%20Stylistique-et-Rhetorique) : fiches indépendantes sur les figures de style, les registres et les techniques d’expression et de persuasion, avec exemples multilingues et liens vers les œuvres.
 
 Les **🔎 Études littéraires** complètent les fiches d'œuvres avec des dossiers transversaux :
 
