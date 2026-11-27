@@ -156,6 +156,12 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 **Éclairage de lecture (assistant) :** Le commis est un employé subalterne du ministère de la Justice, non le chancelier. « À qui cela était égal » signifie qu’il était indifférent ; « misérable » exprime ici un jugement moral plutôt que la pauvreté. Hugo dénonce le contraste entre la gravité du sort du condamné et la banalité administrative de la décision. L’extrait fourni s’arrête avant les paroles du commis.
 
+### Une femme, c’est quelquefois une conscience (préface)
+
+> Il faut citer ici deux ou trois exemples de ce que certaines exécutions ont eu d’épouvantable et d’impie. Il faut donner mal aux nerfs aux femmes des procureurs du roi. Une femme, c’est quelquefois une conscience.
+
+**Éclairage de lecture (assistant) :** « Donner mal aux nerfs » signifie ici bouleverser émotionnellement. Les femmes des procureurs sont leurs épouses. Hugo semble vouloir atteindre indirectement la conscience morale des magistrats par la sensibilité de leurs épouses, en s’appuyant sur une représentation genrée répandue au XIXe siècle. L’anaphore « Il faut », le vocabulaire moral et religieux et la formule aphoristique finale participent à une argumentation par le pathos. Cette lecture est une interprétation, non une réflexion personnelle du lecteur.
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
@@ -208,6 +214,9 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 | **Commis (de la chancellerie)** | Nom masculin | Employé subalterne chargé de tâches administratives ; ici, au ministère de la Justice. | Un commis de la chancellerie. |
 | **Exécration** | Nom féminin ; registre soutenu | Sentiment de haine profonde, d’horreur ou d’aversion extrême. Au sens ancien : malédiction. Du latin *exsecratio*. Verbe associé : exécrer. | Victor Hugo vouait une profonde exécration à la peine de mort. (Exemple illustratif.) |
 | **Impie** | Adjectif et nom, masculin et féminin ; registre soutenu | Qui manque de respect envers Dieu, la religion ou le sacré. Au figuré, qui offense des valeurs morales fondamentales. Du latin *impius*, contraire de *pius* (pieux). À distinguer d’athée. | Il considérait la condamnation à mort comme un acte impie. (Exemple illustratif.) |
+| **Donner mal aux nerfs** | Expression | Provoquer un trouble émotionnel, bouleverser ou choquer profondément ; ici, susciter une réaction de compassion. | Il faut donner mal aux nerfs aux femmes des procureurs du roi. |
+| **Conscience (morale)** | Nom féminin | Faculté de distinguer le bien du mal et de juger moralement ses propres actes. | Une femme, c’est quelquefois une conscience. |
+| **Pathos** | Nom masculin ; rhétorique | Procédé de persuasion qui fait appel aux émotions et à la sensibilité du destinataire. | Hugo cherche à éveiller la conscience par l’émotion. |
 | **Arbitraire** | Adjectif et nom masculin | Qui dépend du bon vouloir ou du caprice de quelqu’un plutôt que de règles objectives ou de motifs légitimes. Dans le passage, le choix du prisonnier est présenté comme arbitraire ; le prisonnier subit ce choix. | Le roi ordonna une arrestation arbitraire. (Exemple illustratif.) |
 
 **Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
