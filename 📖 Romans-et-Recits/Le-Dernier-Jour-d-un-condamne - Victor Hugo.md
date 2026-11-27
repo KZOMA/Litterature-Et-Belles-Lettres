@@ -201,6 +201,22 @@ Références historiques de la préface de 1832, notamment l'affaire Chalais (16
 
 **Éclairage de lecture (assistant) :** Hugo dénonce la commercialisation de récits d’exécutions vendus un sou. Le vert-de-gris est un dépôt de corrosion du cuivre. L’image associe le sou (profit), la corrosion (dégradation) et le sang (souffrance et mort) pour suggérer une souillure morale. Ce n’est pas une expression figée, mais une métaphore de la corruption morale liée à l’exploitation commerciale de la souffrance. Source : [préface de 1832](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face). Cette interprétation est un éclairage de l’assistant, non une réflexion personnelle du lecteur.
 
+### Les envieux et les querelles de personnes (préface)
+
+> Nous faisons cette question sérieusement ; nous la faisons pour qu’on y réponde ; nous la faisons aux criminalistes, et non aux lettrés bavards. Nous savons qu’il y a des gens qui prennent l’excellence de la peine de mort pour texte à paradoxe comme tout autre thème. Il y en a d’autres qui n’aiment la peine de mort que parce qu’ils haïssent tel ou tel qui l’attaque. C’est pour eux une question quasi-littéraire, une question de personnes, une question de noms propres. Ceux-là sont les envieux, qui ne font pas plus faute aux bons jurisconsultes qu’aux grands artistes. Les Joseph Grippa ne manquent pas plus aux Filangieri que les Torregiani aux Michel-Ange et les Scudéry aux Corneille.
+
+**Éclairage de lecture (assistant) :** Hugo oppose le débat sérieux sur la peine de mort à la recherche de paradoxes brillants et aux rivalités personnelles. « Prendre pour texte à paradoxe » signifie prendre comme sujet d’un discours provocateur ou contraire aux idées reçues. « Ne font pas plus faute à X qu’à Y » signifie que les envieux ne manquent ni aux spécialistes du droit ni aux grands artistes ; faute signifie ici manque, non erreur. Un jurisconsulte est un spécialiste savant du droit, pas nécessairement un magistrat.
+
+| Duo historique | Contexte |
+| --- | --- |
+| Giuseppe (Joseph) Grippa et Gaetano Filangieri | Grippa, professeur de mathématiques, critique les projets de réforme de Filangieri dans les années 1780, notamment leur orientation antiféodale. Filangieri est l’auteur de La Science de la législation. |
+| Pietro Torrigiano (Torregiani chez Hugo) et Michel-Ange | Sculpteurs de la Renaissance italienne ; les biographies anciennes rapportent que Torrigiano brisa le nez de Michel-Ange lors d’une altercation, attribuée à la jalousie. |
+| Georges de Scudéry et Pierre Corneille | Scudéry publie en 1637 des Observations sur Le Cid, critiquant la pièce de Corneille ; l’Académie française intervient dans la querelle. |
+
+Les noms propres sont employés au pluriel comme types humains (antonomase). Hugo présente ces opposants comme envieux, mais cette qualification est son jugement polémique et non une explication historique exhaustive de leurs motivations. Le passage dénonce la réduction d’une question de vie ou de mort à un exercice intellectuel ou à une querelle personnelle.
+
+**Sources :** [Préface de 1832](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Treccani — Filangieri et Grippa](https://www.treccani.it/enciclopedia/gaetano-filangieri_%28Il-Contributo-italiano-alla-storia-del-Pensiero%3A-Diritto%29/), [Treccani — Giuseppe Grippa](https://www.treccani.it/enciclopedia/giuseppe-grippa_%28Dizionario-Biografico%29/), [étude historique sur Michel-Ange et son entourage](https://www.persee.fr/doc/bec_0373-6237_1916_num_77_1_451136), [base AGON — querelle du Cid](https://obtic.huma-num.fr/agon/querelles/querelle-du-cid), [Académie française — Richelieu et l’Académie](https://www.academie-francaise.fr/celebration-du-350e-anniversaire-de-lacademie-francaise-richelieu-et-lacademie-francaise).
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
@@ -276,6 +292,14 @@ Références historiques de la préface de 1832, notamment l'affaire Chalais (16
 | **Denrée** | Nom féminin | Produit destiné à la consommation ou au commerce, principalement alimentaire. Une denrée périssable se détériore rapidement. Au figuré, chose recherchée ou rare. De l’ancien français *denree*, quantité de marchandise valant un denier. | La guerre avait provoqué une augmentation du prix des denrées alimentaires. L’honnêteté est parfois une denrée rare. (Exemples illustratifs.) |
 | **Vert-de-gris (vert-de-grisé)** | Nom masculin ; adjectif | Dépôt verdâtre formé par la corrosion du cuivre ou de ses alliages. Vert-de-grisé : couvert de vert-de-gris. Chez Hugo, l’image du sou vert-de-grisé dans le sang évoque la souillure morale de l’argent gagné en exploitant la souffrance humaine. | Concevez-vous rien de plus hideux que ce sou, vert-de-grisé dans le sang ? |
 | **Alléguer** | Verbe transitif ; registre soutenu, juridique | Avancer un argument, un fait ou une raison pour justifier une affirmation ou un comportement. Alléguer un fait ne signifie pas nécessairement le prouver. Du latin *allegare* (invoquer). Nom associé : allégation. | Il allègue des raisons de santé pour justifier son absence. (Exemple illustratif.) |
+| **Criminaliste** | Nom ; vocabulaire juridique | Spécialiste du droit pénal et des matières criminelles. | Hugo s’adresse aux criminalistes. |
+| **Lettré** | Nom et adjectif | Personne cultivée, instruite notamment dans les lettres. | Les lettrés bavards. |
+| **Excellence** | Nom féminin | Qualité de ce qui est excellent ; dans le passage, les mérites prêtés à la peine capitale. | L’excellence de la peine de mort. |
+| **Texte à paradoxe** | Expression littéraire | Sujet servant de prétexte à développer une opinion surprenante, contraire aux idées reçues, parfois par goût de la contradiction. | Prendre l’excellence de la peine de mort pour texte à paradoxe. |
+| **Paradoxe** | Nom masculin | Opinion contraire à l’opinion commune ou proposition apparemment contradictoire. | Un paradoxe peut provoquer la réflexion. |
+| **Faire faute à quelqu’un** | Locution verbale ancienne | Manquer à quelqu’un, lui faire défaut. Ne pas faire faute signifie ne pas manquer, être présent ; ne pas confondre avec commettre une faute. | Les envieux ne font pas faute aux bons jurisconsultes. |
+| **Jurisconsulte** | Nom ; vocabulaire juridique | Spécialiste savant du droit, qui l’étudie, l’interprète ou donne des consultations juridiques ; pas nécessairement magistrat. | Filangieri est un jurisconsulte. |
+| **Antonomase** | Nom féminin ; rhétorique | Figure consistant notamment à employer un nom propre pour désigner un type de personne ou, inversement, un nom commun pour désigner une personne. | Les Scudéry aux Corneille. |
 
 **Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
 
