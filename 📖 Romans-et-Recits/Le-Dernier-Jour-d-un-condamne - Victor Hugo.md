@@ -150,6 +150,12 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 **Éclairage syntaxique (assistant) :** Dans « il se retourne, saisit au hasard par les cheveux dans la première prison venue un de ces infortunés qui comptaient sur la vie », le sujet « il » (le bourreau) reste commun aux verbes successifs. Le COD de « saisit » est « un de ces infortunés » ; les compléments intercalés éloignent le verbe de son objet. Aucun autre agent n’est introduit. « La première prison venue » signifie une prison quelconque ; « comptaient sur la vie » signifie qu’ils espéraient rester en vie. La scène est une représentation satirique de la reprise des exécutions, non nécessairement le récit littéral d’un événement réel.
 
+### Le commis de la chancellerie (préface)
+
+> Pour qu’un jour un misérable commis de la chancellerie, à qui cela était égal, se soit levé de sa chaise en disant :
+
+**Éclairage de lecture (assistant) :** Le commis est un employé subalterne du ministère de la Justice, non le chancelier. « À qui cela était égal » signifie qu’il était indifférent ; « misérable » exprime ici un jugement moral plutôt que la pauvreté. Hugo dénonce le contraste entre la gravité du sort du condamné et la banalité administrative de la décision. L’extrait fourni s’arrête avant les paroles du commis.
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
@@ -198,6 +204,8 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 | **Échafaudage** | Nom masculin | Structure construite ; ici, celle de l’échafaud. | Sortir de dessous son échafaudage. |
 | **Restaurer** | Verbe transitif | Remettre en bon état. | Restaurer un objet. |
 | **Chancellerie** | Nom féminin ; vocabulaire juridique, administratif et diplomatique | Administration placée sous l’autorité d’un chancelier. En France, désigne couramment le ministère de la Justice ; en diplomatie, les services administratifs d’une ambassade. Dans le contexte de Hugo, renvoie à l’administration centrale de la justice. Du latin médiéval *cancellaria*. | La demande de grâce du condamné fut transmise à la Chancellerie. (Exemple illustratif.) |
+| **Chancelier** | Nom masculin ; féminin : chancelière | Haut dignitaire exerçant des fonctions politiques, judiciaires ou administratives selon le pays et l’époque. Sous l’Ancien Régime français, chargé notamment de la justice et des sceaux royaux. Du latin *cancellarius*. | Le chancelier de France était un haut dignitaire de la monarchie. |
+| **Commis (de la chancellerie)** | Nom masculin | Employé subalterne chargé de tâches administratives ; ici, au ministère de la Justice. | Un commis de la chancellerie. |
 | **Arbitraire** | Adjectif et nom masculin | Qui dépend du bon vouloir ou du caprice de quelqu’un plutôt que de règles objectives ou de motifs légitimes. Dans le passage, le choix du prisonnier est présenté comme arbitraire ; le prisonnier subit ce choix. | Le roi ordonna une arrestation arbitraire. (Exemple illustratif.) |
 
 **Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
