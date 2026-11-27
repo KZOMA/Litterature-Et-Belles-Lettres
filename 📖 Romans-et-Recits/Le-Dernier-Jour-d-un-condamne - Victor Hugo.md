@@ -45,6 +45,16 @@ Au lieu de présenter uniquement des arguments juridiques ou philosophiques, Hug
 
 Il faut distinguer l'intention documentée de l'auteur de notre propre lecture : comprendre son engagement ne signifie pas devoir partager chacune de ses conclusions.
 
+### 2 bis. Le contexte de la préface : la Révolution de juillet 1830
+
+Les mentions de « juillet » renvoient aux Trois Glorieuses (27, 28 et 29 juillet 1830), qui renversent Charles X après les ordonnances de Saint-Cloud du 25 juillet, restreignant notamment la liberté de la presse et le suffrage et dissolvant la Chambre. Charles X abdique le 2 août ; Louis-Philippe devient roi des Français le 9 août, inaugurant la monarchie de Juillet.
+
+En décembre 1830, les quatre anciens ministres de Charles X, détenus à Vincennes, sont condamnés à la détention perpétuelle. Leur sort avait ravivé le débat abolitionniste. Dans sa préface, Hugo dénonce ce qu’il présente comme une compassion sélective : l’intérêt politique pour l’abolition s’affaiblit lorsque les anciens ministres sont épargnés, tandis que les exécutions ordinaires reprennent. Cette lecture éclaire les références à Vincennes, aux parlementaires et au retour du bourreau.
+
+**Distinction chronologique :** le roman paraît en 1829, avant la révolution ; la grande préface est datée du 15 mars 1832. Les événements de 1830 éclairent donc directement la préface et la réception politique de l’œuvre, non sa rédaction initiale.
+
+**Texte de référence :** [Préface de 1832, Wikisource](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face).
+
 ### 3. Les clés de lecture
 
 **Comment aborder le roman ?** Le lire comme un récit d'intériorité, proche d'un journal, plutôt que comme un roman centré sur les péripéties. Le condamné raconte lui-même son expérience ; sa perception est le centre du récit.
