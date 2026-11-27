@@ -162,6 +162,12 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 **Éclairage de lecture (assistant) :** « Donner mal aux nerfs » signifie ici bouleverser émotionnellement. Les femmes des procureurs sont leurs épouses. Hugo semble vouloir atteindre indirectement la conscience morale des magistrats par la sensibilité de leurs épouses, en s’appuyant sur une représentation genrée répandue au XIXe siècle. L’anaphore « Il faut », le vocabulaire moral et religieux et la formule aphoristique finale participent à une argumentation par le pathos. Cette lecture est une interprétation, non une réflexion personnelle du lecteur.
 
+### Le bourreau et le prêtre (préface)
+
+> Le bourreau le prend au prêtre.
+
+**Éclairage de lecture (assistant) :** La construction « prendre quelqu’un à quelqu’un » signifie ici retirer une personne à une autre. « Le » désigne le condamné et « au prêtre » désigne le religieux qui l’accompagne spirituellement, non une partie de l’échafaud. Le passage oppose potentiellement l’accompagnement spirituel à l’exécution de la sentence.
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
