@@ -141,6 +141,13 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 **Sources :** [passage de Hugo (Wikisource)](https://fr.wikisource.org/wiki/Page:Hugo_-_%C5%92uvres_compl%C3%A8tes,_Impr._nat.,_Roman,_tome_I.djvu/608), [Virgile, Énéide II (UCLouvain)](https://bcs.fltr.ucl.ac.be/Virg/V02-268-437.html), [CNRTL : biffer](https://www.cnrtl.fr/definition/biffer).
 
+
+### Le retour des exécutions (préface)
+
+> il fait un pas, puis deux, comme je ne sais plus quelle souris de La Fontaine, puis il se hasarde à sortir tout à fait de dessous son échafaudage, puis il saute dessus, le raccommode, le restaure, le fourbit, le caresse, le fait jouer, le fait reluire, se remet à suifer la vieille mécanique rouillée que l’oisiveté détraquait ; tout à coup il se retourne, saisit au hasard par les cheveux dans la première prison venue un de ces infortunés qui comptaient sur la vie, le tire à lui, le dépouille, l’attache, le boucle, et voilà les exécutions qui recommencent.
+
+**Éclairage de lecture (assistant) :** Le bourreau reprend progressivement confiance et les exécutions reprennent après un répit. La comparaison avec une souris le ridiculise ; les répétitions de « puis » et les accumulations de verbes donnent du rythme à la scène. « Tout à coup » marque une rupture brutale. Le contraste entre l’affection grotesque pour la machine et l’absence de compassion envers les condamnés nourrit la dénonciation de la peine de mort. L’identification précise de la fable n’a pas été vérifiée.
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
@@ -177,6 +184,17 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 | **Apoplectique** | Adjectif, masculin et féminin ; registre soutenu | Qui est atteint ou menacé d’apoplexie, ancien terme médical désignant une perte brutale de connaissance, souvent liée à un accident vasculaire cérébral. Au figuré, dont le visage est congestionné, notamment sous l’effet d’une colère intense. Du grec *apoplêxia*, évoquant l’idée d’être frappé soudainement. | Apoplectique de colère, il ne parvenait plus à articuler un mot. (Exemple illustratif.) |
 | **Hasarder (se hasarder)** | Verbe transitif et pronominal | Oser entreprendre quelque chose en prenant un risque, sans certitude du résultat. Se hasarder signifie aussi s’aventurer. Le mot exprime le risque, non la précipitation. Synonymes : oser, risquer, tenter. | Il se hasarda à contredire le magistrat. (Exemple illustratif.) |
 | **Fourbir (fourbit)** | Verbe transitif | Nettoyer et polir un objet métallique, notamment une arme, pour le faire briller. Au figuré, préparer ses moyens d’action en vue d’une confrontation. Synonymes : polir, astiquer. | Le soldat fourbit son épée. (Exemple illustratif.) |
+| **Suifer (suif)** | Verbe transitif ; nom masculin | Enduire de suif, graisse animale utilisée notamment comme lubrifiant. | Suifer un mécanisme. |
+| **Oisiveté** | Nom féminin | État d’inactivité, absence d’occupation. | L’oisiveté détraquait la vieille mécanique. |
+| **Détraquer** | Verbe transitif | Dérégler, empêcher de fonctionner correctement. | Détraquer un mécanisme. |
+| **Raccommoder** | Verbe transitif | Réparer ce qui est abîmé. | Raccommoder un objet. |
+| **Reluire** | Verbe intransitif | Briller, réfléchir la lumière. | Faire reluire un objet. |
+| **Infortuné** | Adjectif et nom | Malheureux, victime du malheur. | Ces infortunés comptaient sur la vie. |
+| **Faire jouer** | Locution verbale | Actionner un mécanisme. | Faire jouer un mécanisme. |
+| **Dépouiller** | Verbe transitif | Retirer les vêtements ou les biens ; ici, dévêtir. | Dépouiller un homme. |
+| **Boucler** | Verbe transitif | Fermer ou attacher au moyen d’une boucle. | Boucler une sangle. |
+| **Échafaudage** | Nom masculin | Structure construite ; ici, celle de l’échafaud. | Sortir de dessous son échafaudage. |
+| **Restaurer** | Verbe transitif | Remettre en bon état. | Restaurer un objet. |
 
 **Sources du vocabulaire de la préface :** [texte de Hugo](https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/Pr%C3%A9face), [Académie française : paterne](https://www.dictionnaire-academie.fr/article/A9P0950), [fausset](https://www.dictionnaire-academie.fr/article/A9F0333), [désemplir](https://www.dictionnaire-academie.fr/article/A9D1814), [procureur (1835)](https://www.dictionnaire-academie.fr/article/A6P2448), [myriologie](https://fr.wiktionary.org/wiki/myriologie).
 
