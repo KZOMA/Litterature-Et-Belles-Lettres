@@ -148,6 +148,8 @@ L'œuvre illustre également la capacité du roman à intervenir dans les débat
 
 **Éclairage de lecture (assistant) :** Le bourreau reprend progressivement confiance et les exécutions reprennent après un répit. La comparaison avec une souris le ridiculise ; les répétitions de « puis » et les accumulations de verbes donnent du rythme à la scène. « Tout à coup » marque une rupture brutale. Le contraste entre l’affection grotesque pour la machine et l’absence de compassion envers les condamnés nourrit la dénonciation de la peine de mort. L’identification précise de la fable n’a pas été vérifiée.
 
+**Éclairage syntaxique (assistant) :** Dans « il se retourne, saisit au hasard par les cheveux dans la première prison venue un de ces infortunés qui comptaient sur la vie », le sujet « il » (le bourreau) reste commun aux verbes successifs. Le COD de « saisit » est « un de ces infortunés » ; les compléments intercalés éloignent le verbe de son objet. Aucun autre agent n’est introduit. « La première prison venue » signifie une prison quelconque ; « comptaient sur la vie » signifie qu’ils espéraient rester en vie. La scène est une représentation satirique de la reprise des exécutions, non nécessairement le récit littéral d’un événement réel.
+
 ## ✍️ Mots et expressions découverts
 
 <!-- Facultatif. -->
